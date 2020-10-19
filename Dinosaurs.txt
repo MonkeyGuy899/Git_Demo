@@ -1,0 +1,12 @@
+Dinosaurs:
+
+Tyrannosaurus Rex
+Stegosaurus
+Ankylosaurus
+Apatosaurus
+Spinosaurus
+Brachiosaurus
+Velociraptor
+Triceratops
+Gallimimus
+Dilophosaurus
