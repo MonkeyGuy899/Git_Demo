@@ -1,4 +1,4 @@
-Dinosaurs:
+Top Dinosaurs:
 
 Tyrannosaurus Rex
 Stegosaurus
