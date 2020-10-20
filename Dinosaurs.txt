@@ -10,3 +10,4 @@ Velociraptor
 Triceratops
 Gallimimus
 Dilophosaurus
+Pachycephalosaurus
